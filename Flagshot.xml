@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\flowdesk\flowdesk.nupkg" checksum="C0A2E10F6DDCC8985DDFCF3C519B9AC4" />
+    <file path="C:\ProgramData\chocolatey\lib\flowdesk\flowdesk.nuspec" checksum="30AEF0E1D36B6B19BE65E3714843469A" />
+    <file path="C:\ProgramData\chocolatey\lib\flowdesk\tools\chocolateyinstall.ps1" checksum="70D596069F1B84594B1D448DE0D384DF" />
+    <file path="C:\ProgramData\chocolatey\lib\flowdesk\tools\chocolateyuninstall.ps1" checksum="E6E934BF575EB737CFBEC40E47B83935" />
+  </files>
+</fileSnapshot>
