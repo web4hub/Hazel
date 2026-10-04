@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<registrySnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <user>S-1-5-21-3135245717-2897186544-1438784322-1000</user>
+  <keys>
+    <key installerType="Custom" displayName="FlowDesk" displayVersion="1.0.2">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\FlowDesk</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[C:\Program Files\TAPATCH\FlowDesk]]></InstallLocation>
+      <UninstallString><![CDATA["C:\Program Files\TAPATCH\FlowDesk\uninstall.exe" /S]]></UninstallString>
+      <HasQuietUninstall>true</HasQuietUninstall>
+      <Publisher><![CDATA[TAPATCH]]></Publisher>
+      <InstallDate />
+      <InstallSource><![CDATA[]]></InstallSource>
+      <Language />
+      <Version />
+      <VersionMajor />
+      <VersionMinor />
+      <SystemComponent>false</SystemComponent>
+      <WindowsInstaller>false</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>true</NoModify>
+      <NoRepair>true</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+    </key>
+  </keys>
+</registrySnapshot>
