@@ -1,0 +1,22 @@
+$ ./hazel -h
+hazel 1.0.0
+Victor Brekenfeld <brekenfeld@mpib-berlin.mpg.de>
+Chocolatey-compatible Package Server
+
+USAGE:
+    hazel [FLAGS] [OPTIONS]
+
+FLAGS:
+    -h, --help       Prints help information
+    -q, --quiet      Disable console output. Hazel will not make any attempts to open stdout/err
+    -V, --version    Prints version information
+    -v               Sets the level of verbosity (may be used up to 4 times)
+
+OPTIONS:
+    -c, --config <config>      Config file location (e.g. config.toml)
+    -d, --db_url <dburl>       Sets the postgres database url (e.g.
+                               postgres://postgres:postgr3s@localhost/hazel_feed_v1)
+    -l, --logfile <logfile>    Sets a log file path (default: None)
+    -p, --port <port>          HTTP port to listen on (default 80)
+    -s, --storage <storage>    Sets the storage path (e.g. /var/hazel/storage/) (default current working
+                               directory)
